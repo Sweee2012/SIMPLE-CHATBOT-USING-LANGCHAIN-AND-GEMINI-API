@@ -3,43 +3,43 @@ A simple chatbot built using LangChain and Google Gemini API, implemented in Goo
 
 🌟**Features**
 
-Runs entirely in Google Colab – no local setup needed
+➤ Runs entirely in Google Colab – no local setup needed
 
-Integrates LangChain for prompt management and chaining
+➤ Integrates LangChain for prompt management and chaining
 
-Uses Google's Gemini API for generating intelligent responses
+➤ Uses Google's Gemini API for generating intelligent responses
 
-Interactive chat interface via standard input/output
+➤ Interactive chat interface via standard input/output
 
 🔧**Tools & Technologies**
 
-Python
+‣ Python
 
-LangChain
+‣ LangChain
 
-Google Generative AI (google.generativeai)
+‣ Google Generative AI (google.generativeai)
 
-Colab environment (no need for .env file)
+‣ Colab environment (no need for .env file)
 
 📔**Notebook Highlights**
 
-Step-by-step setup for LangChain and Gemini
+➤ Step-by-step setup for LangChain and Gemini
 
-API key input via input() or getpass for security
+➤ API key input via input() or getpass for security
 
-Custom prompt templates for better conversational control
+➤ Custom prompt templates for better conversational control
 
-Simple chatbot loop to interact with Gemini
+➤ Simple chatbot loop to interact with Gemini
 
 ▶️**How to Use**
 
-Open the notebook in Google Colab
+1. Open the notebook in Google Colab
 
-Install required libraries in the first cell
+2. Install required libraries in the first cell
 
-Enter your Gemini API key when prompted
+3. Enter your Gemini API key when prompted
 
-Start chatting with your AI assistant!
+4. Start chatting with your AI assistant!
 
 🔐**Notes**
 
